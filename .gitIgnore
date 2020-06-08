@@ -8,4 +8,3 @@ run/
 *.swp
 package-lock.json
 .vscode/
-config/config.default.js
